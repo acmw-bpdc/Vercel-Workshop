@@ -4,6 +4,12 @@
 
 Whether you're a complete beginner or have some experience, this workshop is designed to help you grasp the basics of **GitHub** and learn how to **deploy your project using Vercel**. By the end of this session, you'll know how to make your projects accessible to anyone, anywhere, with a simple link\!
 
+## **🎯 Objectives:**
+
+* Use GitHub to store and manage your projects.  
+* Clone, commit, push, and pull repositories using GitHub Desktop.  
+* Deploy your project using Vercel and make it live on the web.
+
 ---
 
 ## **📁 Basics of Git & GitHub**
@@ -97,12 +103,6 @@ This template will be used for the deployment demonstration.
 * **Use a `README.md`** to make your repository more understandable.
 
 ---
-
-## **🎯 By the End of This Workshop, You’ll Know How To:**
-
-* Use GitHub to store and manage your projects.  
-* Clone, commit, push, and pull repositories using GitHub Desktop.  
-* Deploy your project using Vercel and make it live on the web.
 
 Happy Deploying\! 🌟
 
